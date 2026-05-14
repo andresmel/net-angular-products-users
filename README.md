@@ -59,7 +59,7 @@ cd pruebaT-cnica
   se ejecuta con el puerto https://localhost:7196;http://localhost:5160
   Debe cambiar la coneccion a la base de datos en el appsettings.json por sus credenciales de sql server local.
 
-# Ejecutar el Fronend
+# Ejecutar el Frontend
 cd ../webApp
 npm install
 ng serve
